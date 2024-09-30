@@ -12,7 +12,7 @@ title                    : "Prannaya Gupta"
 title_separator          : "-"
 name                     : &name "Prannaya Gupta"
 description              : &description "personal description"
-url                      : https://research.prannay.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://research.prannay.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ThePyProgrammer/academia"
 
